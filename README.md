@@ -1,2 +1,2 @@
 # ArraySinifi
-Array sınıfı metotlarıyla ilgili alıştırmalar
+Bu bir [patika.dev](https://www.patika.dev/tr) projesidir.
